@@ -4,68 +4,15 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636a025e-e518-4b60-8539-b2747c252cbd" name="Changes" comment="Java Learnings Exercises">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab074.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab075.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab076.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab077.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab078.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab079.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab080.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab081.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab082.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab083.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab084.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab085.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab086.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab087.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab088.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab089.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab090.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab091.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab092.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab093.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab094.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab095.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab096.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab097.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab098.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab099.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab100.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab101.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_20072024/Lab102.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab103.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab104.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab105.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab106.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab107.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab108.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab109.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab110.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab111.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab112.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab113.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab114.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab115.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab116.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab117.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab118.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab119.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab120.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab121.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab122.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab123.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab124.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab125.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab126.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab127.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab128.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab129.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab130.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab131.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab132.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Ex_21072024/Lab133.java" afterDir="false" />
+    <list default="true" id="636a025e-e518-4b60-8539-b2747c252cbd" name="Changes" comment="Java Learnings Exercises - July 20 &amp; 21">
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/FizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/GradeCalculator.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/LeapYear2024.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/LeftTriangleStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/PyramidPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/RightTriangleStarPattern.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/TablesPrint.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/TriangleClassifier.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -117,13 +64,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.Lab133">
-    <configuration name="Lab130" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_21072024.Lab130" />
+  <component name="RunManager" selected="Application.TriangleClassifier">
+    <configuration name="LeftTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.LeftTriangleStarPattern" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_21072024.*" />
+          <option name="PATTERN" value="Java_Practice_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -131,12 +78,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab131" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_21072024.Lab131" />
+    <configuration name="PyramidPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.PyramidPattern" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_21072024.*" />
+          <option name="PATTERN" value="Java_Practice_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -144,12 +91,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab132" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_21072024.Lab132" />
+    <configuration name="RightTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.RightTriangleStarPattern" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_21072024.*" />
+          <option name="PATTERN" value="Java_Practice_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,12 +104,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab133" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_21072024.Lab133" />
+    <configuration name="TablesPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.TablesPrint" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_21072024.*" />
+          <option name="PATTERN" value="Java_Practice_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -170,12 +117,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Lab134" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Ex_21072024.Lab134" />
+    <configuration name="TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.TriangleClassifier" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Ex_21072024.*" />
+          <option name="PATTERN" value="Java_Practice_Programs.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -185,11 +132,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Lab133" />
-        <item itemvalue="Application.Lab134" />
-        <item itemvalue="Application.Lab132" />
-        <item itemvalue="Application.Lab131" />
-        <item itemvalue="Application.Lab130" />
+        <item itemvalue="Application.TriangleClassifier" />
+        <item itemvalue="Application.TablesPrint" />
+        <item itemvalue="Application.RightTriangleStarPattern" />
+        <item itemvalue="Application.PyramidPattern" />
+        <item itemvalue="Application.LeftTriangleStarPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -218,7 +165,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721717671206</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Java Learnings Exercises - July 20 &amp; 21">
+      <option name="closed" value="true" />
+      <created>1721933977425</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1721933977425</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -236,7 +191,8 @@
     <MESSAGE value="Java Basic Learnings Exercise" />
     <MESSAGE value="Java Basic Learnings Exercises" />
     <MESSAGE value="Java Learnings Exercises" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Learnings Exercises" />
+    <MESSAGE value="Java Learnings Exercises - July 20 &amp; 21" />
+    <option name="LAST_COMMIT_MESSAGE" value="Java Learnings Exercises - July 20 &amp; 21" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
