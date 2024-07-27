@@ -4,15 +4,8 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636a025e-e518-4b60-8539-b2747c252cbd" name="Changes" comment="Java Learnings Exercises - July 20 &amp; 21">
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/FizzBuzz.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/GradeCalculator.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/LeapYear2024.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/LeftTriangleStarPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/PyramidPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/RightTriangleStarPattern.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/TablesPrint.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/TriangleClassifier.java" afterDir="false" />
+    <list default="true" id="636a025e-e518-4b60-8539-b2747c252cbd" name="Changes" comment="Practice Programs">
+      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/ArraySecondHighest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -64,9 +57,9 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.TriangleClassifier">
-    <configuration name="LeftTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.LeftTriangleStarPattern" />
+  <component name="RunManager" selected="Application.ArraySecondHighest">
+    <configuration name="ArraySecondHighest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.ArraySecondHighest" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -132,11 +125,11 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.ArraySecondHighest" />
         <item itemvalue="Application.TriangleClassifier" />
         <item itemvalue="Application.TablesPrint" />
         <item itemvalue="Application.RightTriangleStarPattern" />
         <item itemvalue="Application.PyramidPattern" />
-        <item itemvalue="Application.LeftTriangleStarPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -173,7 +166,15 @@
       <option name="project" value="LOCAL" />
       <updated>1721933977425</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Practice Programs">
+      <option name="closed" value="true" />
+      <created>1722019912507</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1722019912507</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -192,7 +193,8 @@
     <MESSAGE value="Java Basic Learnings Exercises" />
     <MESSAGE value="Java Learnings Exercises" />
     <MESSAGE value="Java Learnings Exercises - July 20 &amp; 21" />
-    <option name="LAST_COMMIT_MESSAGE" value="Java Learnings Exercises - July 20 &amp; 21" />
+    <MESSAGE value="Practice Programs" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Programs" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
