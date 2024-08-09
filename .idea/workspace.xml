@@ -4,8 +4,26 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="636a025e-e518-4b60-8539-b2747c252cbd" name="Changes" comment="Practice Programs">
-      <change afterPath="$PROJECT_DIR$/src/Java_Practice_Programs/ArraySecondHighest.java" afterDir="false" />
+    <list default="true" id="636a025e-e518-4b60-8539-b2747c252cbd" name="Changes" comment="Practice Program - July 28">
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab134.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab135.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab136.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab137.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab138.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab139.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab140.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab141.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab142.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab143.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab144.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab145.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab146.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab147.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab148.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab149.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab150.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab151.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Ex_27072024/Lab152.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -57,13 +75,13 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.ArraySecondHighest">
-    <configuration name="ArraySecondHighest" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.ArraySecondHighest" />
+  <component name="RunManager" selected="Application.Lab152">
+    <configuration name="Lab149" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_27072024.Lab149" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice_Programs.*" />
+          <option name="PATTERN" value="Ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -71,12 +89,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="PyramidPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.PyramidPattern" />
+    <configuration name="Lab150" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_27072024.Lab150" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice_Programs.*" />
+          <option name="PATTERN" value="Ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -84,12 +102,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RightTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.RightTriangleStarPattern" />
+    <configuration name="Lab151" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_27072024.Lab151" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice_Programs.*" />
+          <option name="PATTERN" value="Ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -97,12 +115,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TablesPrint" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.TablesPrint" />
+    <configuration name="Lab152" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Ex_27072024.Lab152" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Java_Practice_Programs.*" />
+          <option name="PATTERN" value="Ex_27072024.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -110,8 +128,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="TriangleClassifier" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.TriangleClassifier" />
+    <configuration name="LeftTriangleStarPattern" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java_Practice_Programs.LeftTriangleStarPattern" />
       <module name="ATB7xJavaProgram" />
       <extension name="coverage">
         <pattern>
@@ -125,11 +143,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.ArraySecondHighest" />
-        <item itemvalue="Application.TriangleClassifier" />
-        <item itemvalue="Application.TablesPrint" />
-        <item itemvalue="Application.RightTriangleStarPattern" />
-        <item itemvalue="Application.PyramidPattern" />
+        <item itemvalue="Application.Lab152" />
+        <item itemvalue="Application.Lab151" />
+        <item itemvalue="Application.Lab150" />
+        <item itemvalue="Application.Lab149" />
+        <item itemvalue="Application.LeftTriangleStarPattern" />
       </list>
     </recent_temporary>
   </component>
@@ -174,7 +192,15 @@
       <option name="project" value="LOCAL" />
       <updated>1722019912507</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="Practice Program - July 28">
+      <option name="closed" value="true" />
+      <created>1722111131750</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1722111131750</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -194,7 +220,8 @@
     <MESSAGE value="Java Learnings Exercises" />
     <MESSAGE value="Java Learnings Exercises - July 20 &amp; 21" />
     <MESSAGE value="Practice Programs" />
-    <option name="LAST_COMMIT_MESSAGE" value="Practice Programs" />
+    <MESSAGE value="Practice Program - July 28" />
+    <option name="LAST_COMMIT_MESSAGE" value="Practice Program - July 28" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
